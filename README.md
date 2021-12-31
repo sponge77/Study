@@ -1,2 +1,2 @@
 # Study
-공부기록(DEV-C++, VISUAL STUDIO 환경)
+공부기록(VISUAL STUDIO 환경)
